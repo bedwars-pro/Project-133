@@ -1,0 +1,22 @@
+body{
+    background-image:linear-gradient(red,orange,yellow);
+}
+a{
+    font-size:30px;
+    width:400px;
+    border-radius:30px;
+    background-color:white;
+    color:black;
+}
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+}
+#status{
+    font-size:18px;
+}
+canvas{
+    border-radius:6px;
+    margin-top:10px;
+}
